@@ -15,6 +15,6 @@ A brief introduction to your project, explaining its purpose and main features.
 
 ## Build project
 
-5. You can build the project via installl typescript: `npm install -g typescript`
-6. Build project: `tsc -w`
-7. Run for test build script: `npm start`
+1. You can build the project via installl typescript: `npm install -g typescript`
+2. Build project: `tsc -w`
+3. Run for test build script: `npm start`
