@@ -10,11 +10,6 @@ merge (int[] collection_1, int[] collection_2) : int []
 Given
 collection_1, collection_2 already sorted from min(0) to max
 
-Please provide accessible repo of typescript project with unit test
-and provide how to setup dependency and execute code and unit test
-
-Note: Don't allow to use any sort function
-
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/bleclub/merge-array-sort.git`
